@@ -1,5 +1,6 @@
 describe("About Objects", function () {
 
+  //Completed sections
   describe("Properties", function () {
     var megalomaniac;
 
